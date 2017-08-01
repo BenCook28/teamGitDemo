@@ -1,0 +1,21 @@
+body {
+	background-color: lightgray;
+}
+
+h1 {
+	color: deeppink;
+	font-size: 3em;
+}
+
+h2 {
+	color: blue;
+	font-size: 2em;
+}
+
+h3, h4, h5, h6 {
+	color: purple;
+}
+
+p {
+	color: green;
+}
